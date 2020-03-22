@@ -1,0 +1,12 @@
+.container {
+    min-height: 900px;
+}
+
+.aboutText {
+    font-size: 30px;
+    color: rgba(0,0,0,0.8)
+}
+
+img {
+    max-width: 1100px;
+}

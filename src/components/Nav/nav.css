@@ -1,0 +1,44 @@
+
+nav {
+    float: right;
+    position: fixed;
+    width: 100%;
+    text-align: right;
+    z-index: 5;
+}
+/* 
+.link {
+    /* width: 100% */
+/* } */ 
+
+li a {
+   display: block;
+   line-height: 35px;
+   width: 115px;
+   border-radius: 3px;
+   transition: 3s;
+}
+
+li a:hover {
+    background-color: rgba(0, 0, 0, 0.2)
+}
+
+li a:active {
+    background-color: rgba(0, 0, 0, 0.1)
+}
+
+li {
+    text-decoration: none;
+    text-align: center;
+    margin: 10px 20px;
+    /* border: 1px solid rgba(0, 0, 0, 0.3); */
+    border-radius: 3px;
+    cursor: pointer;
+    color: rgba(0, 0, 0, 0.3);
+    background-color: rgba(255, 255, 255, 0.7);
+}
+
+ul {
+    list-style-type: none;
+    float: right;
+}
