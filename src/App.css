@@ -1,5 +1,4 @@
 .App {
-  /* background-color: rgba(0, 0, 0, 0.8); */
   height: 100%;
 }
 
@@ -32,27 +31,6 @@ h1 {
   font-size:100px;
 }
 
-/* Cursor Styling */
-.cursor::after {
-  content:'';
-  display:inline-block;
-  margin-left:3px;
-  background-color:rgba(0, 0, 0, 0.3);
-  animation-name:blink;
-  animation-duration:0.5s;
-  animation-iteration-count: infinite;
-}
-
-/* size of the cursor */
-p.cursor::after {
-  height:70px;
-  width:1px;
-}
-
-h1.cursor::after {
-  height:70px;
-  width:1px;
-}
 
 @keyframes blink {
   0% {
@@ -68,32 +46,3 @@ h1.cursor::after {
     opacity:0;
   }
 }
-
-
-
-
-
- /* how to rotate logo */
-
-/* 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-} */

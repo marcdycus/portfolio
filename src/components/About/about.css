@@ -1,12 +1,21 @@
 .container {
     min-height: 900px;
+    text-align: center;
 }
+
 
 .aboutText {
-    font-size: 30px;
-    color: rgba(0,0,0,0.8)
+    font-size: 20px;
+    color: rgba(0,0,0,0.8);
+    width: 90%;
+    padding: 20px;
+    margin: 20px;
+    /* max-width: 850px; */
 }
 
-img {
+#landscape {
     max-width: 1100px;
+    /* height: 400px; */
+    margin-bottom: 100px;
+    overflow: hidden;
 }

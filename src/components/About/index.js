@@ -12,12 +12,20 @@ class About extends Component {
             <h1><Fade bottom cascade>About.</Fade></h1>
             <Fade bottom>
                     <p className="aboutText">
-                        about me blah blah long text
+                        about me blah blah long text al;kjdfl;kjafl;jkv  ao v;neiin v idnvnne i i eai neiin 
+                        vokvn ei naoane oanmv  aoenr oe arpoi2nvnbmcm0 cocoeo voeoe a  a oine voiiwnapcocv
+                        falnvoiefoie nvovomeoa0n3o vnvoeoeoihgjbnckielew aolc.eoet  ovoelalv eoangoiboielap
+                        about me blah blah long text al;kjdfl;kjafl;jkv  ao v;neiin v idnvnne i i eai neiin 
+                        vokvn ei naoane oanmv  aoenr oe arpoi2nvnbmcm0 cocoeo voeoe a  a oine voiiwnapcocv
+                        falnvoiefoie nvovomeoa0n3o vnvoeoeoihgjbnckielew aolc.eoet  ovoelalv eoangoiboielap
+                        about me blah blah long text al;kjdfl;kjafl;jkv  ao v;neiin v idnvnne i i eai neiin 
+                        vokvn ei naoane oanmv  aoenr oe arpoi2nvnbmcm0 cocoeo voeoe a  a oine voiiwnapcocv
+                        falnvoiefoie nvovomeoa0n3o vnvoeoeoihgjbnckielew aolc.eoet  ovoelalv eoangoiboielap
                         
                         {/* {data.abouttext} */}
                     </p>
                     
-                        ><img src={landscape}></img>
+                        <img id="landscape" src={landscape}></img>
             </Fade>
             </div>
             {/* {data.ShowAboutImage ? <img src={data.aboutImage} alt='about iamge'></img> : null} */}
