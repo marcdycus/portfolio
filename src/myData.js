@@ -37,19 +37,31 @@ export default {
     projects: [
         {
             name: "MealMatch",
-            url: "",
+            url: "https://hidden-falls-38208.herokuapp.com/",
             img: "",
             gif: ""
         },
         {
             name: "PlanIt",
-            url: "",
+            url: "https://secret-ravine-43281.herokuapp.com/",
             img: "",
             gif: ""
         },
         {
             name: "Hangry",
             url: "",
+            img: "",
+            gif: ""
+        },
+        {
+            name: "Rotton Tomatoes Scraper",
+            url: "https://guarded-eyrie-32562.herokuapp.com/",
+            img: "",
+            gif: ""
+        },
+        {
+            name: "Burger App",
+            url: "https://mysterious-falls-57407.herokuapp.com/",
             img: "",
             gif: ""
         }

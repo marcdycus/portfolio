@@ -9,7 +9,7 @@ function Hello() {
             <div className="output" id="output">
                 <p id="hello" className="cursor"></p>
                 <h1 id="hello1">Hey, I'm Marc.</h1>
-                <p id="hello2">Web designer and developer from New York City.</p>
+                <p id="hello2">Web designer and developer from Brooklyn.</p>
 
             </div>  
             <div id="arrowDiv">

@@ -6,8 +6,10 @@
     text-align: center;
 }
 
+
+
 #arrowImg {
-    font-size: 20px;
+    font-size: 25px;
     /* transform: translateY(90px) rotate(10deg); */
     /* will-change: transform; */
     white-space: nowrap;
