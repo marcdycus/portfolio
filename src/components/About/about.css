@@ -7,9 +7,9 @@
 .aboutText {
     font-size: 20px;
     color: rgba(0,0,0,0.8);
-    width: 90%;
-    padding: 20px;
-    margin: 20px;
+    /* width: 90%; */
+    padding: 20px 5%;
+    margin: 20px 5%;
     /* max-width: 850px; */
 }
 

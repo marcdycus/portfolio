@@ -5,6 +5,7 @@
     width: 100%;
     text-align: center;
     z-index: 5;
+    right: 0px;
 }
 
 
@@ -18,15 +19,18 @@
    /* border: 1px solid rgba(0, 0, 0, 0.1); */
    /* float: right; */
    /* margin: 8px 15px; */
+
 }
 
 .linkContainer {
     display: inline-block;
     transition: 0.4s;
     border-radius: 48px;
+      
 }
 
-.linkContainer:hover {
+.linkContainer:hover, .linkContainer:active {
+    outline: none;
     transform: scale(0.9);
     background-color: rgba(0,0,0,0.2);
     /* color: white; */

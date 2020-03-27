@@ -9,7 +9,8 @@
 #questions {
     clear: both;
     font-size: 30px;
-    color: rgba(0, 0, 0, 0.8)
+    color: rgba(0, 0, 0, 0.8);
+    padding: 0px 20px;
 }
 
 .email {
