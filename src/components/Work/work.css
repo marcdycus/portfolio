@@ -1,3 +1,13 @@
 .container {
-    min-height: 900px;
+    /* min-height: 900px; */
+}
+
+.work-content {
+    width: 100%;
+}
+
+.project-li {
+    width: 300px;
+    margin: 0px;
+    display: inline-block;
 }

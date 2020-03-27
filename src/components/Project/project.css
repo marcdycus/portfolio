@@ -1,0 +1,28 @@
+.project {
+    height: 200px;
+    width: 200px;
+}
+
+.project a {
+    display: inline-block;
+}
+
+.project-img {
+    height: 50px;
+    width: 70px;
+}
+
+.project-title {
+    font-size: 40px;
+}
+
+.project-text {
+    font-size: 20px;
+}
+
+
+
+.gif {
+    height: 100px;
+    width: 120px;
+}

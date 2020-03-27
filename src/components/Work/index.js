@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
-// import Project from './project';
+import Project from "../Project";
 import Fade from 'react-reveal/Fade';
 import "./work.css";
-// import data from '../yourdata';
+import data from "../../myData.js";
 
 class Work extends Component {
     state = {  }
@@ -11,14 +11,19 @@ class Work extends Component {
         <h1 className='heading'>
         <Fade bottom cascade>Work.</Fade></h1>
         <div className='work-content'>
-                {/* {data.projects.map((project)=>(
-                    <Project key={project.id}
-                             title = {project.title}
+            <ul>
+                {data.projects.map((project)=>(
+                    <li className="project-li">
+                        <Project key={project.id}
+                             name = {project.name}
                              service = {project.service}
-                             imageSrc = {project.imageSrc}
+                             gif = {project.gif}
+                             image = {project.img}
                              url={project.url}
-                     ></Project> */}
-                {/* ))} */}
+                        ></Project> 
+                     </li>
+                 ))}
+            </ul>
         </div>
         </div>  );
     }

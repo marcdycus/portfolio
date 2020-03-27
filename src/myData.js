@@ -4,6 +4,8 @@ import github from "./img/github.png"
 import instagram from "./img/instagram.png"
 import spotify from "./img/spotify.png"
 import email from "./img/gmail.png"
+import mealmatch from "./img/mealmatch-home.png"
+import preferenceGif from "./video/preference.gif"
 
 export default {
     social: [
@@ -36,35 +38,70 @@ export default {
 
     projects: [
         {
+            id: 1,
             name: "MealMatch",
+            service: "Full Stack Web App",
             url: "https://hidden-falls-38208.herokuapp.com/",
-            img: "",
-            gif: ""
+            img: mealmatch,
+            gif: "https://giphy.com/embed/JtHTG3G0FCORRp6Oni"
         },
         {
-            name: "PlanIt",
-            url: "https://secret-ravine-43281.herokuapp.com/",
-            img: "",
-            gif: ""
+            id: 2,
+            name: "MealMatch",
+            service: "Full Stack Web App",
+            url: "https://hidden-falls-38208.herokuapp.com/",
+            img: mealmatch,
+            gif: "https://giphy.com/embed/JtHTG3G0FCORRp6Oni"
+
         },
         {
-            name: "Hangry",
-            url: "",
-            img: "",
-            gif: ""
+            id: 3,
+            name: "MealMatch",
+            service: "Full Stack Web App",
+            url: "https://hidden-falls-38208.herokuapp.com/",
+            img: mealmatch,
+            gif: "https://giphy.com/embed/JtHTG3G0FCORRp6Oni"
         },
         {
-            name: "Rotton Tomatoes Scraper",
-            url: "https://guarded-eyrie-32562.herokuapp.com/",
-            img: "",
-            gif: ""
+            id: 4,
+            name: "MealMatch",
+            service: "Full Stack Web App",
+            url: "https://hidden-falls-38208.herokuapp.com/",
+            img: mealmatch,
+            gif: "https://giphy.com/embed/JtHTG3G0FCORRp6Oni"
         },
         {
-            name: "Burger App",
-            url: "https://mysterious-falls-57407.herokuapp.com/",
-            img: "",
-            gif: ""
-        }
+            id: 5,
+            name: "MealMatch",
+            service: "Full Stack Web App",
+            url: "https://hidden-falls-38208.herokuapp.com/",
+            img: mealmatch,
+            gif: "https://giphy.com/embed/JtHTG3G0FCORRp6Oni"
+        },
+        // {
+        //     name: "PlanIt",
+        //     url: "https://secret-ravine-43281.herokuapp.com/",
+        //     img: "",
+        //     gif: ""
+        // },
+        // {
+        //     name: "Hangry",
+        //     url: "",
+        //     img: "",
+        //     gif: ""
+        // },
+        // {
+        //     name: "Rotton Tomatoes Scraper",
+        //     url: "https://guarded-eyrie-32562.herokuapp.com/",
+        //     img: "",
+        //     gif: ""
+        // },
+        // {
+        //     name: "Burger App",
+        //     url: "https://mysterious-falls-57407.herokuapp.com/",
+        //     img: "",
+        //     gif: ""
+        // }
     ],
 
     email: {
