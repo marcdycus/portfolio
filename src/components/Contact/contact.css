@@ -1,7 +1,10 @@
-/* .container {
+.container {
     min-height: 700px;
-} */
+}
 
+.contact-container {
+    margin-top: 100px;
+}
 #friends {
     font-size: 50px;
 }

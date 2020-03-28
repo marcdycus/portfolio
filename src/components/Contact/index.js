@@ -7,7 +7,7 @@ import data from "../../myData.js";
 class Contact extends Component {
     state = {}
     render() {
-        return (<div className="container">
+        return (<div className="container contact-container">
             <h1>
                 <Fade bottom cascade>Contact.</Fade>
             </h1>
