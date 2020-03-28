@@ -5,7 +5,6 @@ import instagram from "./img/instagram.png"
 import spotify from "./img/spotify.png"
 import email from "./img/gmail.png"
 import mealmatch from "./img/mealmatch-home.png"
-import preferenceGif from "./video/preference.gif"
 
 export default {
     social: [

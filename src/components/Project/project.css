@@ -1,19 +1,41 @@
 .project {
     height: 200px;
-    width: 200px;
+    /* width: 200px; */
+    padding: 20px;
+    position: relative;
+    margin-top: 100px;
+    text-align: center;
 }
 
-.project a {
+.project-link {
     display: inline-block;
+    text-decoration: none;
+    width: 100%;
 }
 
 .project-img {
-    height: 50px;
-    width: 70px;
+    position: absolute;
+    height: 127px;
+    left: 68px;
+    top: 94px;
+    width: 68%;
+    z-index: 1;
+    transition: 0.2s ease-in-out;
+}
+
+.project-img:hover {
+    opacity: 0;
 }
 
 .project-title {
     font-size: 40px;
+}
+
+.project-content {
+    position: absolute;
+    height: 155px;
+    width: 100%;
+    margin-bottom: 50px;
 }
 
 .project-text {
@@ -23,6 +45,6 @@
 
 
 .gif {
-    height: 100px;
-    width: 120px;
+    height: 127px;
+    width: 100%;
 }

@@ -8,11 +8,13 @@ class Project extends Component {
         return ( 
         <Fade bottom>
         <div className='project'>
-            <a href={this.props.url}>
+            <a className="project-link" href={this.props.url}>
                 <img className="project-img" src={this.props.image} alt={this.props.name}></img>
-                <h1 id={this.props.key} className="project-title">{this.props.name}</h1>
-                <p className="project-text">{this.props.service}</p>
-                <iframe display="hidden" className="gif" src={this.props.gif}></iframe>
+                <div className="project-content">
+                    <h1 id={this.props.key} className="project-title">{this.props.name}</h1>
+                    <p className="project-text">{this.props.service}</p>
+                    <iframe className="gif" src={this.props.gif}></iframe>
+                </div>
             </a>
         </div> 
             </Fade>);

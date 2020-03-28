@@ -7,7 +7,7 @@ import data from "../../myData.js";
 class Work extends Component {
     state = {  }
     render() { 
-        return (<div className="container">
+        return (<div className="container work-container">
         <h1 className='heading'>
         <Fade bottom cascade>Work.</Fade></h1>
         <div className='work-content'>
