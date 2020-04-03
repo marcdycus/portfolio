@@ -46,61 +46,37 @@ export default {
         },
         {
             id: 2,
-            name: "MealMatch",
+            name: "PlanIt",
             service: "Full Stack Web App",
-            url: "https://hidden-falls-38208.herokuapp.com/",
+            url: "https://secret-ravine-43281.herokuapp.com/",
             img: mealmatch,
             gif: "https://giphy.com/embed/JtHTG3G0FCORRp6Oni"
 
         },
         {
             id: 3,
-            name: "MealMatch",
+            name: "R.T. Scraper",
             service: "Full Stack Web App",
-            url: "https://hidden-falls-38208.herokuapp.com/",
+            url: "https://guarded-eyrie-32562.herokuapp.com/",
             img: mealmatch,
             gif: "https://giphy.com/embed/JtHTG3G0FCORRp6Oni"
         },
         {
             id: 4,
-            name: "MealMatch",
-            service: "Full Stack Web App",
+            name: "Hangry",
+            service: "Google Maps Web App",
             url: "https://hidden-falls-38208.herokuapp.com/",
             img: mealmatch,
             gif: "https://giphy.com/embed/JtHTG3G0FCORRp6Oni"
         },
         {
             id: 5,
-            name: "MealMatch",
+            name: "Waitlist",
             service: "Full Stack Web App",
-            url: "https://hidden-falls-38208.herokuapp.com/",
+            url: "https://banana-crumble-14760.herokuapp.com/",
             img: mealmatch,
             gif: "https://giphy.com/embed/JtHTG3G0FCORRp6Oni"
         },
-        // {
-        //     name: "PlanIt",
-        //     url: "https://secret-ravine-43281.herokuapp.com/",
-        //     img: "",
-        //     gif: ""
-        // },
-        // {
-        //     name: "Hangry",
-        //     url: "",
-        //     img: "",
-        //     gif: ""
-        // },
-        // {
-        //     name: "Rotton Tomatoes Scraper",
-        //     url: "https://guarded-eyrie-32562.herokuapp.com/",
-        //     img: "",
-        //     gif: ""
-        // },
-        // {
-        //     name: "Burger App",
-        //     url: "https://mysterious-falls-57407.herokuapp.com/",
-        //     img: "",
-        //     gif: ""
-        // }
     ],
 
     email: {

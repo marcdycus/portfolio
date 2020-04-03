@@ -65,4 +65,5 @@
 .gif {
     height: 127px;
     width: 100%;
+    pointer-events: none;
 }
