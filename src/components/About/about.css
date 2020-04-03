@@ -3,33 +3,40 @@
     text-align: center;
 }
 
+.about {
+    background-color: rgb(27, 27, 27);
+    z-index: -2;
+    margin-bottom: 150px;
+    /* padding-top:100px */
+}
+
 #about {
     text-align: right;
     margin-right: 35px;
+    color: rgba(255, 255, 255, 0.9);
 }
 
 
 .aboutText {
     font-size: 20px;
-    color: rgba(0, 0, 0, 0.938);
-    width: 70%;
+    width: 60%;
+    color: rgba(255, 255, 255, 0.9);
     float: right;
     text-align: right;
-    /* padding: 20px 5%; */
-    /* padding-bottom: 0px; */
+    font-size: 30px;
     margin: 20px 5%;
-    /* margin-top: 80px; */
-    background-color: rgba(255, 255, 255, 0.5);
+    margin-top: 180px;
+    background-color: rgba(27, 27, 27, 0.5);
     /* margin-bottom: 0px; */
     /* max-width: 850px; */
 }
 
 #landscape {
-    right: 22%;
-    height: 332px;
-    margin-top: 156px;
+    right: 30%;
+    height: 402px;
+    margin-top: 25px;
     margin-bottom: 100px;
     position: absolute;
     overflow: hidden;
-    z-index: -1;
+    /* z-index: -1; */
 }
