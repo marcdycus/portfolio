@@ -1,6 +1,7 @@
 import React from "react";
 import "./hello.css";
 import $ from "jquery";
+import portrait from "../../img/portrait.png";
 
 
 function Hello() {
@@ -10,7 +11,7 @@ function Hello() {
                 {/* <p id="hello" className="cursor"></p> */}
                 <h1 id="hello1">Hey, I'm Marc.</h1>
                 <p id="hello2">Web designer and developer from Brooklyn.</p>
-
+                <img id="portrait" src={portrait}></img>
             </div>  
             <div id="arrowDiv">
                 <div id="arrow">
