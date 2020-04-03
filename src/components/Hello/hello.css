@@ -7,11 +7,16 @@
 }
 
 #hello1 {
-    width: 60%;
+    width: 55%;
+    text-align: right;
+    padding: 20px;
+    padding-left: 30px;
 }
 #hello2 {
     font-size: 50px;
-    width:60%;
+    width:55%;
+    text-align: right;
+    padding: 20px;
 }
 
 
