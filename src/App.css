@@ -22,9 +22,9 @@ p, h1, h3 {
   color: rgba(0, 0, 0, 0.3)
 }
 
-.container {
+/* .container {
   background-color: rgba(255, 255, 255, 1);
-}
+} */
 
 .output {
   min-height: 900px;
