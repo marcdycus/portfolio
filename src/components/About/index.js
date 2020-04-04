@@ -11,7 +11,7 @@ class About extends Component {
             <div className='about-content'>
             
             <h1 id="about"><Fade bottom cascade>About.</Fade></h1>
-            <Fade bottom><img id="landscape" src={landscape}></img></Fade>
+            
             <Fade bottom>
                     <p className="aboutText">
                         {/* about me blah blah long text al;kjdfl;kjafl;jkv  ao v;neiin v idnvnne i i eai neiin 
@@ -27,7 +27,7 @@ class About extends Component {
                         {data.aboutText}
                     </p>
                     
-
+              <img id="landscape" src={landscape}></img>
                        
             </Fade>
             </div>

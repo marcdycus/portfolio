@@ -86,7 +86,7 @@ export default {
         img: email
     },
 
-    aboutText: "Fueled by endless amounts of curiosity and eagerness to create, I'm easily inspired to follow through with ideas. I have over 10 years of experience in both customer service and fine art, so verbal communication of difficult concepts comes easily for me. With that, I've learned to flow through projects quickly and efficiently. I'm a multi-disciplinary maker with extraordinary interests in UI/UX, full stack web development, and game design. I'm also a photographer, musician, traveler, entrepreneur, and freelancer.",
+    aboutText: "Fueled by endless amounts of curiosity and eagerness to create, I'm easily inspired to follow through with ideas. I have over 10 years of experience in both customer service and fine art, therefore verbal communication of difficult concepts comes easily for me. With that, I've learned to flow through projects quickly and efficiently. I'm a multi-disciplinary maker with extraordinary interests in UI/UX, full stack web development, and game design. I'm also a photographer, musician, traveler, entrepreneur, and freelancer.",
     
     // techStack: {}
 }

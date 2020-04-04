@@ -4,39 +4,45 @@
 }
 
 .about {
-    background-color: rgb(27, 27, 27);
-    z-index: -2;
-    margin-bottom: 150px;
+    /* background-color: rgb(255, 255, 255); */
+    /* z-index: -2; */
+    /* margin-bottom: 150px; */
     /* padding-top:100px */
 }
 
 #about {
-    text-align: right;
-    margin-right: 35px;
-    color: rgba(255, 255, 255, 0.9);
+    /* text-align: right; */
+    /* margin-right: 35px; */
+    /* color: rgba(255, 255, 255, 0.9); */
 }
 
 
 .aboutText {
-    font-size: 20px;
-    width: 60%;
-    color: rgba(255, 255, 255, 0.9);
-    float: right;
-    text-align: right;
-    font-size: 30px;
-    margin: 20px 5%;
-    margin-top: 180px;
-    background-color: rgba(27, 27, 27, 0.5);
+    /* font-size: 15px; */
+    /* font-weight: 700; */
+    width: 80%;
+    color: rgba(0, 0, 0, 0.9);
+    /* float: right; */
+    text-align: center;
+    padding: 20px;
+    font-size: 22px;
+    margin: auto;
+    /* margin: 20px 5%; */
+    /* margin-top: 180px; */
+    /* background-color: rgba(27, 27, 27, 0.5); */
     /* margin-bottom: 0px; */
     /* max-width: 850px; */
+    /* z-index: 2; */
 }
 
 #landscape {
-    right: 30%;
-    height: 402px;
+    /* right: 30%; */
+    /* height: 402px; */
+    height: 300px;
+    text-align: center;
     margin-top: 25px;
-    margin-bottom: 100px;
-    position: absolute;
-    overflow: hidden;
-    /* z-index: -1; */
+    /* margin-bottom: 100px; */
+    /* position: absolute; */
+    /* overflow: hidden; */
+    z-index: -1;
 }
