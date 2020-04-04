@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import Fade from 'react-reveal/Fade';
 import data from '../../myData';
 import "./about.css";
-import landscape from "../../img/landscape.jpg";
+import landscape from "../../img/landscape.png";
 
 class About extends Component {
     state = {  }

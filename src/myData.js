@@ -68,7 +68,7 @@ export default {
             id: 4,
             name: "Hangry",
             service: "Interactive Web App using Google Maps API",
-            url: "https://hidden-falls-38208.herokuapp.com/",
+            url: "https://marcdycus.github.io/Balletime/",
             img: hangry,
             gif: "https://giphy.com/embed/L4Cddrw2qEBszvQ1Sh"
         },
@@ -78,7 +78,7 @@ export default {
             service: "Full Stack Web App",
             url: "https://banana-crumble-14760.herokuapp.com/",
             img: waitlist,
-            gif: "https://giphy.com/embed/JtHTG3G0FCORRp6Oni"
+            gif: "https://giphy.com/embed/XI1FlHtRKVKKXp4NOA"
         },
     ],
 
