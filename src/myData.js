@@ -6,6 +6,9 @@ import spotify from "./img/spotify.png"
 import email from "./img/gmail.png"
 import mealmatch from "./img/mealmatch-home.png"
 import planit from "./img/planit.png";
+import rottonTom from "./img/rotton-tomatos.png";
+import hangry from "./img/hangry.png";
+import waitlist from "./img/waitlist.png";
 
 export default {
     social: [
@@ -40,7 +43,7 @@ export default {
         {
             id: 1,
             name: "MealMatch",
-            service: "Full Stack Web App",
+            service: "Full Stack Web App with React",
             url: "https://hidden-falls-38208.herokuapp.com/",
             img: mealmatch,
             gif: "https://giphy.com/embed/JtHTG3G0FCORRp6Oni"
@@ -58,23 +61,23 @@ export default {
             name: "R.T. Scraper",
             service: "Full Stack Web App",
             url: "https://guarded-eyrie-32562.herokuapp.com/",
-            img: mealmatch,
-            gif: "https://giphy.com/embed/JtHTG3G0FCORRp6Oni"
+            img: rottonTom,
+            gif: "https://giphy.com/embed/JUer5y5v9gZyGmQEJK",
         },
         {
             id: 4,
             name: "Hangry",
-            service: "Google Maps Web App",
+            service: "Interactive Web App using Google Maps API",
             url: "https://hidden-falls-38208.herokuapp.com/",
-            img: mealmatch,
-            gif: "https://giphy.com/embed/JtHTG3G0FCORRp6Oni"
+            img: hangry,
+            gif: "https://giphy.com/embed/L4Cddrw2qEBszvQ1Sh"
         },
         {
             id: 5,
             name: "Waitlist",
             service: "Full Stack Web App",
             url: "https://banana-crumble-14760.herokuapp.com/",
-            img: mealmatch,
+            img: waitlist,
             gif: "https://giphy.com/embed/JtHTG3G0FCORRp6Oni"
         },
     ],
