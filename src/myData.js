@@ -5,7 +5,7 @@ import instagram from "./img/instagram.png"
 import spotify from "./img/spotify.png"
 import email from "./img/gmail.png"
 import mealmatch from "./img/mealmatch-home.png"
-// import 
+import planit from "./img/planit.png";
 
 export default {
     social: [
@@ -49,10 +49,9 @@ export default {
             id: 2,
             name: "PlanIt",
             service: "Full Stack Web App",
-            url: "https://secret-ravine-43281.herokuapp.com/",
-            img: mealmatch,
-            gif: "https://giphy.com/embed/JtHTG3G0FCORRp6Oni"
-
+            url: "https://blooming-shore-48030.herokuapp.com/",
+            img: planit,
+            gif: "https://giphy.com/embed/gHt6RO9AiAhN2GWBKS"
         },
         {
             id: 3,
